@@ -1,0 +1,18 @@
+{
+  "characterName": "리쿠",
+  "lockSubtitle": "10월 19일 월요일",
+  "wallpaper": "",
+  "contacts": [
+    {"id":"yeoju","name":"여주","phone":"010-0000-0000"},
+    {"id":"daeyoung","name":"대영","phone":"010-0000-0000"}
+  ],
+  "messages": [
+    {"contactId":"yeoju","items":[{"from":"me","text":"언제 와?"},{"from":"them","text":"아직 회사야."},{"from":"me","text":"알았어."}]},
+    {"contactId":"daeyoung","items":[{"from":"them","text":"형, 작업 끝났어요?"},{"from":"me","text":"조금만 더."}]}
+  ],
+  "notes": [
+    {"title":"지우지 못한 말","body":"아직도 좋아해서 짜증 나."},
+    {"title":"작업 메모","body":"멜로디 다시 확인하기."}
+  ],
+  "photos": []
+}
